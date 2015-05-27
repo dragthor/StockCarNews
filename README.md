@@ -1,7 +1,7 @@
 # StockCarNews
 Stock Car News app.
 
-Windows table and desktop -
+Windows tablet and desktop -
 
 http://apps.microsoft.com/windows/en-us/app/stock-car-news/58057731-d8e1-4bdc-9040-f47053378c1a
 
